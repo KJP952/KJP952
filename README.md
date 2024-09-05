@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hello 👋, I'm Katie Park
 
+- 🌱 I’m currently learning **JavaScript**
+- 📫 How to reach me: parkkatie2003@gmail.com
+- 
 <!--
 **KJP952/KJP952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
