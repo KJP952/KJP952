@@ -1,6 +1,6 @@
 ## Hello 👋, I'm Katie Park
 
-I'm a 3rd year student at Emory University majoring in Computer Science and minoring in Quantivative Sciences(QSS). In my free time I like to play golf, bake, and hangout with my dog 🐶.
+I'm a 3rd year student at Emory University majoring in Computer Science and minoring in Quantivative Sciences(QSS).
 
 - 🌱 I’m currently learning **JavaScript** and **React**
 - 📫 How to reach me: parkkatie2003@gmail.com
