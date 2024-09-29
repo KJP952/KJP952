@@ -2,7 +2,7 @@
 
 I'm a 3rd year student at Emory University majoring in Computer Science and minoring in Quantivative Sciences(QSS).
 
-- 🌱 I’m currently learning **JavaScript** and **React**
+- 🌱 I’m currently learning **JavaScript** and **Springboot**
 - 📫 How to reach me: parkkatie2003@gmail.com
 
 <h3 align="left">Connect with me:</h3>
